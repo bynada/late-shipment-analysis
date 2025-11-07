@@ -6,7 +6,8 @@ The goal is to help improve delivery performance, customer satisfaction, and ope
 ---
 
 ## Dataset Overview
-- **Source:** [Kaggle](([https://public.tableau.com/app/profile/YOUR-USERNAME/viz/LateShipmentAnalysis/Dashboard](https://public.tableau.com/app/profile/nada.farhani/viz/LateShipmentAnalysis_17579374188130/Dashboard1?publish=yes))) 
+- **Source:** [Kaggle]([https://public.tableau.com/app/profile/nada.farhani/viz/LateShipmentAnalysis_17579374188130/Dashboard1?publish=yes](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data))
+
 - **Total Records:** ~180,000+  
 - **Target Variable:** `is_late` (1 = Late delivery, 0 = On time)  
 - **Main Features:**
@@ -68,7 +69,7 @@ The goal is to help improve delivery performance, customer satisfaction, and ope
 
 You can explore the **Late Shipment Analysis Dashboard** built in **Tableau** to visualize shipment performance, delivery trends, and late-shipment patterns interactively.
 
-🔗 [View Dashboard on Tableau Public]([https://public.tableau.com/app/profile/YOUR-USERNAME/viz/LateShipmentAnalysis/Dashboard](https://public.tableau.com/app/profile/nada.farhani/viz/LateShipmentAnalysis_17579374188130/Dashboard1?publish=yes))
+🔗 [View Dashboard on Tableau](https://public.tableau.com/app/profile/nada.farhani/viz/LateShipmentAnalysis_17579374188130/Dashboard1?publish=yes)
 
 **Key Visuals:**
 - Late shipment ratio
